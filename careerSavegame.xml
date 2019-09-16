@@ -1,0 +1,194 @@
+﻿<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Mein Spielstand</savegameName>
+        <mapId>Map01</mapId>
+        <mapTitle>Goldcrest Valley</mapTitle>
+        <playerName>Ober Power</playerName>
+        <saveDate>16.09.2019</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
+        <trafficEnabled>false</trafficEnabled>
+        <fertilizerStatesEnabled>true</fertilizerStatesEnabled>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <fuelUsageLow>false</fuelUsageLow>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>1</splitShapesRevision>
+        <tipCollisionRevision>1</tipCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <difficulty>2</difficulty>
+        <playerIndex>1</playerIndex>
+        <playerColorIndex>5</playerColorIndex>
+        <plantGrowthRate>4</plantGrowthRate>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>5.000000</timeScale>
+    </settings>
+    <tipTypeMappings>
+        <tipTypeMapping fillType="woodChips" index="20"/>
+        <tipTypeMapping fillType="rape" index="3"/>
+        <tipTypeMapping fillType="fertilizer" index="11"/>
+        <tipTypeMapping fillType="sunflower" index="8"/>
+        <tipTypeMapping fillType="maize" index="4"/>
+        <tipTypeMapping fillType="soybean" index="7"/>
+        <tipTypeMapping fillType="potato" index="5"/>
+        <tipTypeMapping fillType="barley" index="2"/>
+        <tipTypeMapping fillType="wheat" index="1"/>
+        <tipTypeMapping fillType="seeds" index="10"/>
+        <tipTypeMapping fillType="grass_windrow" index="14"/>
+        <tipTypeMapping fillType="dryGrass_windrow" index="15"/>
+        <tipTypeMapping fillType="straw" index="13"/>
+        <tipTypeMapping fillType="forage" index="17"/>
+        <tipTypeMapping fillType="silage" index="16"/>
+        <tipTypeMapping fillType="sugarCane" index="12"/>
+        <tipTypeMapping fillType="sugarBeet" index="6"/>
+        <tipTypeMapping fillType="manure" index="19"/>
+        <tipTypeMapping fillType="tarp" index="21"/>
+        <tipTypeMapping fillType="chaff" index="9"/>
+        <tipTypeMapping fillType="pigFood" index="18"/>
+    </tipTypeMappings>
+    <statistics>
+        <money>603529</money>
+        <traveledDistance>707.355713</traveledDistance>
+        <fuelUsage>2912.472168</fuelUsage>
+        <seedUsage>50623.781250</seedUsage>
+        <sprayUsage>9640.808594</sprayUsage>
+        <workedHectares>258.734314</workedHectares>
+        <cultivatedHectares>43.423298</cultivatedHectares>
+        <sownHectares>111.954597</sownHectares>
+        <fertilizedHectares>138.533737</fertilizedHectares>
+        <threshedHectares>103.356400</threshedHectares>
+        <workedTime>1762.206421</workedTime>
+        <cultivatedTime>245.367401</cultivatedTime>
+        <sownTime>518.223877</sownTime>
+        <fertilizedTime>141.813950</fertilizedTime>
+        <threshedTime>998.615234</threshedTime>
+        <baleCount>842</baleCount>
+        <threePointThrowCount>0</threePointThrowCount>
+        <breedCowsCount>0</breedCowsCount>
+        <breedSheepCount>0</breedSheepCount>
+        <breedPigsCount>0</breedPigsCount>
+        <fieldJobMissionCount>0</fieldJobMissionCount>
+        <fieldJobMissionByNPC>0</fieldJobMissionByNPC>
+        <revenue>0.000000</revenue>
+        <expenses>121504.078125</expenses>
+        <playTime>3489.822998</playTime>
+        <foundGoldNuggetCount>1</foundGoldNuggetCount>
+        <foundGoldNuggets>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000</foundGoldNuggets>
+        <foundHelpIcons>111100111000</foundHelpIcons>
+        <plantedTreeCount>0</plantedTreeCount>
+        <cutTreeCount>46</cutTreeCount>
+        <woodTonsSold>43.101894</woodTonsSold>
+        <treeTypesCut>000100</treeTypesCut>
+        <loan>0</loan>
+        <loanAnnualInterestRate>200</loanAnnualInterestRate>
+    </statistics>
+    <environment>
+        <dayTime>163.457413</dayTime>
+        <timeSinceLastRain>877.574219</timeSinceLastRain>
+        <currentDay>17</currentDay>
+        <realHourTimer>3011339</realHourTimer>
+        <eastState1>0</eastState1>
+        <eastState2>0</eastState2>
+        <rains numRains="10">
+            <rain isValid="true" rainTypeId="cloudy" duration="253.081238" startDay="19" startDayTime="592.560913"/>
+            <rain isValid="true" rainTypeId="cloudy" duration="364.490906" startDay="20" startDayTime="457.767059"/>
+            <rain isValid="true" rainTypeId="rain" duration="334.646667" startDay="21" startDayTime="731.172852"/>
+            <rain isValid="true" rainTypeId="fog" duration="135.037323" startDay="23" startDayTime="333.700012"/>
+            <rain isValid="true" rainTypeId="cloudy" duration="259.421356" startDay="25" startDayTime="806.478271"/>
+            <rain isValid="true" rainTypeId="fog" duration="139.944122" startDay="26" startDayTime="336.791687"/>
+            <rain isValid="true" rainTypeId="rain" duration="250.259918" startDay="28" startDayTime="422.867493"/>
+            <rain isValid="true" rainTypeId="cloudy" duration="273.607849" startDay="29" startDayTime="501.581421"/>
+            <rain isValid="true" rainTypeId="cloudy" duration="405.191071" startDay="32" startDayTime="483.459564"/>
+            <rain isValid="true" rainTypeId="hail" duration="293.762909" startDay="34" startDayTime="590.534180"/>
+            <rain isValid="true" rainTypeId="hail" duration="293.762909" startDay="34" startDayTime="590.534180"/>
+            <rain isValid="true" rainTypeId="hail" duration="293.762909" startDay="34" startDayTime="590.534180"/>
+            <rain isValid="true" rainTypeId="rain" duration="250.259918" startDay="28" startDayTime="422.867493"/>
+        </rains>
+        <currentRain isValid="false" rainTypeId="cloudy" duration="262.197754" startDay="15" startDayTime="540.588806"/>
+        <lastRain isValid="true" rainTypeId="rain" duration="320.511871" startDay="16" startDayTime="425.374573"/>
+    </environment>
+    <pickupObjects>
+        <pickupObject fillType="egg" amount="22.000000"/>
+    </pickupObjects>
+    <totalAmounts count="52">
+        <totalAmount fillType="squareBaleBarley" value="50000.000000"/>
+        <totalAmount fillType="poplar" value="50000.000000"/>
+        <totalAmount fillType="woodChips" value="50000.000000"/>
+        <totalAmount fillType="forage" value="50000.000000"/>
+        <totalAmount fillType="sunflower" value="114457.000000"/>
+        <totalAmount fillType="milk" value="50000.000000"/>
+        <totalAmount fillType="roundBale" value="50000.000000"/>
+        <totalAmount fillType="fuel" value="50000.000000"/>
+        <totalAmount fillType="squareBaleWheat" value="50000.000000"/>
+        <totalAmount fillType="soybean" value="209934.781250"/>
+        <totalAmount fillType="dryGrass" value="50000.000000"/>
+        <totalAmount fillType="barley" value="87325.835938"/>
+        <totalAmount fillType="wheat" value="109252.195313"/>
+        <totalAmount fillType="seeds" value="50000.000000"/>
+        <totalAmount fillType="pigFoodProtein" value="50000.000000"/>
+        <totalAmount fillType="dryGrass_windrow" value="50000.000000"/>
+        <totalAmount fillType="straw" value="50000.000000"/>
+        <totalAmount fillType="silage" value="50000.000000"/>
+        <totalAmount fillType="sugarCane" value="50000.000000"/>
+        <totalAmount fillType="wool" value="50000.000000"/>
+        <totalAmount fillType="chaff" value="50000.000000"/>
+        <totalAmount fillType="squareBale" value="50000.000000"/>
+        <totalAmount fillType="pig" value="50000.000000"/>
+        <totalAmount fillType="rape" value="92325.820313"/>
+        <totalAmount fillType="fertilizer" value="50000.000000"/>
+        <totalAmount fillType="sheep" value="50000.000000"/>
+        <totalAmount fillType="cow" value="50000.000000"/>
+        <totalAmount fillType="powerFood" value="50000.000000"/>
+        <totalAmount fillType="liquidManure" value="50000.000000"/>
+        <totalAmount fillType="maize" value="100891.789063"/>
+        <totalAmount fillType="chicken" value="50000.000000"/>
+        <totalAmount fillType="roundBaleBarley" value="50000.000000"/>
+        <totalAmount fillType="grass" value="50000.000000"/>
+        <totalAmount fillType="treeSaplings" value="50000.000000"/>
+        <totalAmount fillType="water" value="50000.000000"/>
+        <totalAmount fillType="roundBaleWheat" value="50000.000000"/>
+        <totalAmount fillType="sugarBeet" value="50000.000000"/>
+        <totalAmount fillType="roundBaleDryGrass" value="50000.000000"/>
+        <totalAmount fillType="roundBaleGrass" value="50000.000000"/>
+        <totalAmount fillType="grass_windrow" value="50000.000000"/>
+        <totalAmount fillType="pigFoodGrain" value="50000.000000"/>
+        <totalAmount fillType="digestate" value="50000.000000"/>
+        <totalAmount fillType="pigFoodEarth" value="50000.000000"/>
+        <totalAmount fillType="liquidFertilizer" value="50000.000000"/>
+        <totalAmount fillType="pigFoodBase" value="50000.000000"/>
+        <totalAmount fillType="egg" value="50000.000000"/>
+        <totalAmount fillType="potato" value="50000.000000"/>
+        <totalAmount fillType="manure" value="50000.000000"/>
+        <totalAmount fillType="oilseedRadish" value="50000.000000"/>
+        <totalAmount fillType="tarp" value="50000.000000"/>
+        <totalAmount fillType="forage_mixing" value="50000.000000"/>
+        <totalAmount fillType="pigFood" value="50000.000000"/>
+    </totalAmounts>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <clientPermissions>
+        <permission name="hireAI" setting="true"/>
+        <permission name="resetVehicle" setting="true"/>
+        <permission name="sellVehicle" setting="true"/>
+        <permission name="ownMoney" setting="true"/>
+        <permission name="tradeAnimals" setting="true"/>
+        <permission name="createFields" setting="true"/>
+    </clientPermissions>
+    <mod modName="pdlc_bigBudPack" title="Big Bud Pack" version="1.1.0.0" required="false" fileHash="b6eb6d923d63b0b7d5d02adfe90e92f9"/>
+    <mod modName="pdlc_kuhnPack" title="KUHN Pack" version="1.1.0.0" required="false" fileHash="d791725869f5b339807c1992fed65b94"/>
+    <mod modName="FS17_valtraTSeriesCowEdition" title="T Series COW Edition" version="1.0.0.0" required="false" fileHash="e49b7bf55f5060e48720deb77a635759"/>
+    <mod modName="FS17_challengerMT700EFieldViper" title="MT700E Field Viper" version="1.0.0.0" required="false" fileHash="18bcbf25279a4c8d82829c49294644b2"/>
+    <mod modName="pdlc_platinumEdition" title="Platinum Expansion" version="1.1.0.0" required="false" fileHash="be04e763b5252600025b7fde675d710b"/>
+    <mod modName="pdlc_ropaPack" title="ROPA Pack" version="1.0.1.0" required="false" fileHash="32df287f39179d6e6014103176972468"/>
+</careerSavegame>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<economy>
+    <vehicleShopSales>
+      <vehicleShopSale xmlFilename="data/vehicles/tools/amazone/amazoneFT1001.xml" discount="5" saleStartDay="19" saleStartHour="15" saleDuration="30" isRunning="false" />
+      <vehicleShopSale xmlFilename="data/vehicles/cutters/newHolland/newHolland390Plus.xml" discount="15" saleStartDay="17" saleStartHour="14" saleDuration="48" isRunning="false" />
+      <vehicleShopSale xmlFilename="$pdlcdir$ropaPack/vehicles/trailers/ropaKeiler2.xml" discount="20" saleStartDay="18" saleStartHour="13" saleDuration="30" isRunning="false" />
+      <vehicleShopSale xmlFilename="data/vehicles/tools/salford/salford8312.xml" discount="20" saleStartDay="18" saleStartHour="15" saleDuration="48" isRunning="false" />
+    </vehicleShopSales>
+
+    <brandSale xmlFilename="data/vehicles/tools/amazone/amazoneFT1001.xml" discount="15" saleStartDay="20" saleStartHour="9" saleDuration="6" isRunning="false" />
+
+    <fieldOwnership>
+      <field number="1" ownedByPlayer="false" npcIndex="15" />
+      <field number="2" ownedByPlayer="false" npcIndex="2" />
+      <field number="3" ownedByPlayer="false" npcIndex="6" />
+      <field number="4" ownedByPlayer="false" npcIndex="6" />
+      <field number="5" ownedByPlayer="false" npcIndex="14" />
+      <field number="6" ownedByPlayer="false" npcIndex="15" />
+      <field number="7" ownedByPlayer="false" npcIndex="7" />
+      <field number="8" ownedByPlayer="false" npcIndex="4" />
+      <field number="9" ownedByPlayer="false" npcIndex="9" />
+      <field number="10" ownedByPlayer="false" npcIndex="5" />
+      <field number="11" ownedByPlayer="false" npcIndex="8" />
+      <field number="12" ownedByPlayer="true" npcIndex="1" />
+      <field number="13" ownedByPlayer="false" npcIndex="9" />
+      <field number="14" ownedByPlayer="true" npcIndex="1" />
+      <field number="15" ownedByPlayer="true" npcIndex="1" />
+      <field number="16" ownedByPlayer="false" npcIndex="11" />
+      <field number="17" ownedByPlayer="false" npcIndex="19" />
+      <field number="18" ownedByPlayer="false" npcIndex="16" />
+      <field number="19" ownedByPlayer="true" npcIndex="3" />
+      <field number="20" ownedByPlayer="true" npcIndex="17" />
+      <field number="21" ownedByPlayer="false" npcIndex="19" />
+      <field number="22" ownedByPlayer="false" npcIndex="1" />
+      <field number="23" ownedByPlayer="false" npcIndex="1" />
+      <field number="24" ownedByPlayer="true" npcIndex="1" />
+      <field number="25" ownedByPlayer="false" npcIndex="10" />
+      <field number="26" ownedByPlayer="true" npcIndex="13" />
+      <field number="27" ownedByPlayer="false" npcIndex="10" />
+      <field number="28" ownedByPlayer="false" npcIndex="10" />
+      <field number="29" ownedByPlayer="false" npcIndex="12" />
+      <field number="30" ownedByPlayer="false" npcIndex="18" />
+      <field number="31" ownedByPlayer="false" npcIndex="18" />
+    </fieldOwnership>
+
+    <npcStats>
+        <npc index="1" finishedMissions="0" />
+        <npc index="2" finishedMissions="0" />
+        <npc index="3" finishedMissions="0" />
+        <npc index="4" finishedMissions="0" />
+        <npc index="5" finishedMissions="0" />
+        <npc index="6" finishedMissions="0" />
+        <npc index="7" finishedMissions="0" />
+        <npc index="8" finishedMissions="0" />
+        <npc index="9" finishedMissions="0" />
+        <npc index="10" finishedMissions="0" />
+        <npc index="11" finishedMissions="0" />
+        <npc index="12" finishedMissions="0" />
+        <npc index="13" finishedMissions="0" />
+        <npc index="14" finishedMissions="0" />
+        <npc index="15" finishedMissions="0" />
+        <npc index="16" finishedMissions="0" />
+        <npc index="17" finishedMissions="0" />
+        <npc index="18" finishedMissions="0" />
+        <npc index="19" finishedMissions="0" />
+    </npcStats>
+
+    <greatDemands>
+      <greatDemand stationName="station_spinnery" fillTypeName="wool" demandMultiplier="1.1000000238419" demandStartDay="17" demandStartHour="12" demandDuration="12" isRunning="false" isValid="true" />
+      <greatDemand stationName="station_railroadMillGCV" fillTypeName="potato" demandMultiplier="1.2999999523163" demandStartDay="18" demandStartHour="11" demandDuration="18" isRunning="false" isValid="true" />
+      <greatDemand stationName="station_sawmillGCV" fillTypeName="woodChips" demandMultiplier="1.1000000238419" demandStartDay="17" demandStartHour="18" demandDuration="12" isRunning="false" isValid="true" />
+    </greatDemands>
+
+    <financeStatsHistory>
+        <financeStats day="0">
+            <newVehiclesCost>0</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>0</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-6.083504502695</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>0</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-141.01985559714</purchaseFuel>
+            <purchaseSeeds>0</purchaseSeeds>
+            <purchaseFertilizer>0</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>197525.00080234</harvestIncome>
+            <incomeBga>0</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-817.28135661839</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="1">
+            <newVehiclesCost>-38000</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-7883.6342773438</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-138.00379943848</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>105840</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-656.84552001953</purchaseFuel>
+            <purchaseSeeds>-5820.2124023438</purchaseSeeds>
+            <purchaseFertilizer>-3076.9514160156</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>0</harvestIncome>
+            <incomeBga>0</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-4635.3647460938</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="2">
+            <newVehiclesCost>0</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-8227.587890625</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-135.20205688477</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>84672</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-1142.7308349609</purchaseFuel>
+            <purchaseSeeds>-15823.661132813</purchaseSeeds>
+            <purchaseFertilizer>-2978.5698242188</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>99127.3125</harvestIncome>
+            <incomeBga>0</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-6909.4516601563</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="3">
+            <newVehiclesCost>-412000</newVehiclesCost>
+            <soldVehicles>34192</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-10068.302734375</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-141.52555847168</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>100548</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-1189.6459960938</purchaseFuel>
+            <purchaseSeeds>-13137.579101563</purchaseSeeds>
+            <purchaseFertilizer>-2215.8662109375</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>67583.375</harvestIncome>
+            <incomeBga>0</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-6826.421875</wagePayment>
+            <other>143.63999938965</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="4">
+            <newVehiclesCost>-1400</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-10408.598596975</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-244.49123808869</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>127008</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-832.08892973248</purchaseFuel>
+            <purchaseSeeds>-7530.662415236</purchaseSeeds>
+            <purchaseFertilizer>-998.49252420564</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>0</harvestIncome>
+            <incomeBga>0</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-5574.1058739054</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+    </financeStatsHistory>
+
+</economy>
+
