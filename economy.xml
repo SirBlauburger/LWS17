@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <economy>
     <vehicleShopSales>
-      <vehicleShopSale xmlFilename="data/vehicles/tools/amazone/amazoneFT1001.xml" discount="5" saleStartDay="19" saleStartHour="15" saleDuration="30" isRunning="false" />
-      <vehicleShopSale xmlFilename="data/vehicles/cutters/newHolland/newHolland390Plus.xml" discount="15" saleStartDay="17" saleStartHour="14" saleDuration="44" isRunning="true" />
-      <vehicleShopSale xmlFilename="$pdlcdir$ropaPack/vehicles/trailers/ropaKeiler2.xml" discount="20" saleStartDay="18" saleStartHour="13" saleDuration="30" isRunning="false" />
-      <vehicleShopSale xmlFilename="data/vehicles/tools/salford/salford8312.xml" discount="20" saleStartDay="18" saleStartHour="15" saleDuration="48" isRunning="false" />
+      <vehicleShopSale xmlFilename="data/vehicles/tools/amazone/amazoneFT1001.xml" discount="5" saleStartDay="19" saleStartHour="15" saleDuration="22" isRunning="true" />
+      <vehicleShopSale xmlFilename="data/vehicles/steerable/caseIH/caseIHPumaCVX.xml" discount="10" saleStartDay="22" saleStartHour="11" saleDuration="12" isRunning="false" />
+      <vehicleShopSale xmlFilename="data/vehicles/steerable/newHolland/newHollandT7.xml" discount="20" saleStartDay="22" saleStartHour="14" saleDuration="36" isRunning="false" />
+      <vehicleShopSale xmlFilename="data/vehicles/tools/salford/salford8312.xml" discount="20" saleStartDay="18" saleStartHour="15" saleDuration="14" isRunning="true" />
     </vehicleShopSales>
 
     <brandSale xmlFilename="data/vehicles/tools/amazone/amazoneFT1001.xml" discount="15" saleStartDay="20" saleStartHour="9" saleDuration="6" isRunning="false" />
@@ -66,100 +66,42 @@
     </npcStats>
 
     <greatDemands>
-      <greatDemand stationName="station_spinnery" fillTypeName="wool" demandMultiplier="1.1000000238419" demandStartDay="17" demandStartHour="12" demandDuration="6" isRunning="true" isValid="true" />
-      <greatDemand stationName="station_railroadMillGCV" fillTypeName="potato" demandMultiplier="1.2999999523163" demandStartDay="18" demandStartHour="11" demandDuration="18" isRunning="false" isValid="true" />
-      <greatDemand stationName="station_sawmillGCV" fillTypeName="woodChips" demandMultiplier="1.1000000238419" demandStartDay="17" demandStartHour="18" demandDuration="12" isRunning="true" isValid="true" />
+      <greatDemand stationName="station_spinnery" fillTypeName="wool" demandMultiplier="1.1000000238419" demandStartDay="22" demandStartHour="9" demandDuration="12" isRunning="false" isValid="true" />
+      <greatDemand stationName="station_grainElevatorGCV" fillTypeName="potato" demandMultiplier="1.3" demandStartDay="22" demandStartHour="12" demandDuration="18" isRunning="false" isValid="true" />
+      <greatDemand stationName="station_townBakeryGCV" fillTypeName="maize" demandMultiplier="1.3999999761581" demandStartDay="23" demandStartHour="9" demandDuration="6" isRunning="false" isValid="true" />
     </greatDemands>
 
     <financeStatsHistory>
         <financeStats day="0">
             <newVehiclesCost>-25000</newVehiclesCost>
-            <soldVehicles>0</soldVehicles>
+            <soldVehicles>2631</soldVehicles>
             <newAnimalsCost>0</newAnimalsCost>
             <soldAnimals>0</soldAnimals>
             <constructionCost>0</constructionCost>
             <soldBuildings>0</soldBuildings>
             <fieldPurchase>0</fieldPurchase>
-            <vehicleRunningCost>-10.653659094525</vehicleRunningCost>
+            <vehicleRunningCost>0</vehicleRunningCost>
             <vehicleLeasingCost>0</vehicleLeasingCost>
             <animalUpkeep>0</animalUpkeep>
-            <propertyMaintenance>-104.93587514308</propertyMaintenance>
+            <propertyMaintenance>-174.89118047808</propertyMaintenance>
             <propertyIncome>0</propertyIncome>
             <soldWood>0</soldWood>
-            <soldBales>84672</soldBales>
+            <soldBales>0</soldBales>
             <soldWool>0</soldWool>
             <soldMilk>0</soldMilk>
-            <purchaseFuel>-725.40283674369</purchaseFuel>
-            <purchaseSeeds>-5108.0321249994</purchaseSeeds>
-            <purchaseFertilizer>-1920.1553319847</purchaseFertilizer>
-            <purchaseSaplings>0</purchaseSaplings>
-            <purchaseWater>0</purchaseWater>
-            <harvestIncome>197525</harvestIncome>
-            <incomeBga>77944.575245266</incomeBga>
-            <missionIncome>0</missionIncome>
-            <wagePayment>-4087.4203057028</wagePayment>
-            <other>0</other>
-            <loanInterest>0</loanInterest>
-        </financeStats>
-        <financeStats day="1">
-            <newVehiclesCost>-38000</newVehiclesCost>
-            <soldVehicles>0</soldVehicles>
-            <newAnimalsCost>0</newAnimalsCost>
-            <soldAnimals>0</soldAnimals>
-            <constructionCost>0</constructionCost>
-            <soldBuildings>0</soldBuildings>
-            <fieldPurchase>0</fieldPurchase>
-            <vehicleRunningCost>-7883.6342773438</vehicleRunningCost>
-            <vehicleLeasingCost>0</vehicleLeasingCost>
-            <animalUpkeep>0</animalUpkeep>
-            <propertyMaintenance>-138.00379943848</propertyMaintenance>
-            <propertyIncome>0</propertyIncome>
-            <soldWood>0</soldWood>
-            <soldBales>105840</soldBales>
-            <soldWool>0</soldWool>
-            <soldMilk>0</soldMilk>
-            <purchaseFuel>-656.84552001953</purchaseFuel>
-            <purchaseSeeds>-5820.2124023438</purchaseSeeds>
-            <purchaseFertilizer>-3076.9514160156</purchaseFertilizer>
+            <purchaseFuel>-4227.6351894176</purchaseFuel>
+            <purchaseSeeds>-1347.4849499999</purchaseSeeds>
+            <purchaseFertilizer>-319.23703329111</purchaseFertilizer>
             <purchaseSaplings>0</purchaseSaplings>
             <purchaseWater>0</purchaseWater>
             <harvestIncome>0</harvestIncome>
             <incomeBga>0</incomeBga>
             <missionIncome>0</missionIncome>
-            <wagePayment>-4635.3647460938</wagePayment>
+            <wagePayment>-7826.6066848437</wagePayment>
             <other>0</other>
             <loanInterest>0</loanInterest>
         </financeStats>
-        <financeStats day="2">
-            <newVehiclesCost>0</newVehiclesCost>
-            <soldVehicles>0</soldVehicles>
-            <newAnimalsCost>0</newAnimalsCost>
-            <soldAnimals>0</soldAnimals>
-            <constructionCost>0</constructionCost>
-            <soldBuildings>0</soldBuildings>
-            <fieldPurchase>0</fieldPurchase>
-            <vehicleRunningCost>-8227.587890625</vehicleRunningCost>
-            <vehicleLeasingCost>0</vehicleLeasingCost>
-            <animalUpkeep>0</animalUpkeep>
-            <propertyMaintenance>-135.20205688477</propertyMaintenance>
-            <propertyIncome>0</propertyIncome>
-            <soldWood>0</soldWood>
-            <soldBales>84672</soldBales>
-            <soldWool>0</soldWool>
-            <soldMilk>0</soldMilk>
-            <purchaseFuel>-1142.7308349609</purchaseFuel>
-            <purchaseSeeds>-15823.661132813</purchaseSeeds>
-            <purchaseFertilizer>-2978.5698242188</purchaseFertilizer>
-            <purchaseSaplings>0</purchaseSaplings>
-            <purchaseWater>0</purchaseWater>
-            <harvestIncome>99127.3125</harvestIncome>
-            <incomeBga>0</incomeBga>
-            <missionIncome>0</missionIncome>
-            <wagePayment>-6909.4516601563</wagePayment>
-            <other>0</other>
-            <loanInterest>0</loanInterest>
-        </financeStats>
-        <financeStats day="3">
+        <financeStats day="1">
             <newVehiclesCost>-412000</newVehiclesCost>
             <soldVehicles>34192</soldVehicles>
             <newAnimalsCost>0</newAnimalsCost>
@@ -188,7 +130,7 @@
             <other>143.63999938965</other>
             <loanInterest>0</loanInterest>
         </financeStats>
-        <financeStats day="4">
+        <financeStats day="2">
             <newVehiclesCost>-1400</newVehiclesCost>
             <soldVehicles>0</soldVehicles>
             <newAnimalsCost>0</newAnimalsCost>
@@ -214,6 +156,64 @@
             <incomeBga>0</incomeBga>
             <missionIncome>0</missionIncome>
             <wagePayment>-5574.1059570313</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="3">
+            <newVehiclesCost>-25000</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-10822.046875</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-243.89552307129</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>84672</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-936.33880615234</purchaseFuel>
+            <purchaseSeeds>-5108.0322265625</purchaseSeeds>
+            <purchaseFertilizer>-1920.1552734375</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>197525</harvestIncome>
+            <incomeBga>122574.703125</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-5859.8364257813</wagePayment>
+            <other>0</other>
+            <loanInterest>0</loanInterest>
+        </financeStats>
+        <financeStats day="4">
+            <newVehiclesCost>-287600</newVehiclesCost>
+            <soldVehicles>0</soldVehicles>
+            <newAnimalsCost>0</newAnimalsCost>
+            <soldAnimals>0</soldAnimals>
+            <constructionCost>0</constructionCost>
+            <soldBuildings>0</soldBuildings>
+            <fieldPurchase>0</fieldPurchase>
+            <vehicleRunningCost>-11519.886268155</vehicleRunningCost>
+            <vehicleLeasingCost>0</vehicleLeasingCost>
+            <animalUpkeep>0</animalUpkeep>
+            <propertyMaintenance>-260.86307087964</propertyMaintenance>
+            <propertyIncome>0</propertyIncome>
+            <soldWood>0</soldWood>
+            <soldBales>0</soldBales>
+            <soldWool>0</soldWool>
+            <soldMilk>0</soldMilk>
+            <purchaseFuel>-1073.3361111138</purchaseFuel>
+            <purchaseSeeds>-8552.0137320314</purchaseSeeds>
+            <purchaseFertilizer>-1799.6579589844</purchaseFertilizer>
+            <purchaseSaplings>0</purchaseSaplings>
+            <purchaseWater>0</purchaseWater>
+            <harvestIncome>0</harvestIncome>
+            <incomeBga>21536.478515625</incomeBga>
+            <missionIncome>0</missionIncome>
+            <wagePayment>-7029.0673282159</wagePayment>
             <other>0</other>
             <loanInterest>0</loanInterest>
         </financeStats>
