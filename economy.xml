@@ -73,31 +73,31 @@
 
     <financeStatsHistory>
         <financeStats day="0">
-            <newVehiclesCost>0</newVehiclesCost>
+            <newVehiclesCost>-95500</newVehiclesCost>
             <soldVehicles>0</soldVehicles>
             <newAnimalsCost>0</newAnimalsCost>
             <soldAnimals>0</soldAnimals>
             <constructionCost>0</constructionCost>
             <soldBuildings>0</soldBuildings>
             <fieldPurchase>0</fieldPurchase>
-            <vehicleRunningCost>0</vehicleRunningCost>
+            <vehicleRunningCost>-2.9132520323754</vehicleRunningCost>
             <vehicleLeasingCost>0</vehicleLeasingCost>
             <animalUpkeep>0</animalUpkeep>
-            <propertyMaintenance>-53.227750580287</propertyMaintenance>
-            <propertyIncome>7000</propertyIncome>
+            <propertyMaintenance>-167.28721440004</propertyMaintenance>
+            <propertyIncome>22000</propertyIncome>
             <soldWood>0</soldWood>
             <soldBales>0</soldBales>
             <soldWool>0</soldWool>
             <soldMilk>0</soldMilk>
-            <purchaseFuel>-272.43880437696</purchaseFuel>
-            <purchaseSeeds>0</purchaseSeeds>
+            <purchaseFuel>-1213.9218577236</purchaseFuel>
+            <purchaseSeeds>-3643.4569499999</purchaseSeeds>
             <purchaseFertilizer>0</purchaseFertilizer>
             <purchaseSaplings>0</purchaseSaplings>
             <purchaseWater>0</purchaseWater>
             <harvestIncome>0</harvestIncome>
-            <incomeBga>100975.40345487</incomeBga>
+            <incomeBga>309839.59229744</incomeBga>
             <missionIncome>0</missionIncome>
-            <wagePayment>-2595.7024983724</wagePayment>
+            <wagePayment>-10177.641483174</wagePayment>
             <other>0</other>
             <loanInterest>0</loanInterest>
         </financeStats>
@@ -196,16 +196,16 @@
             <constructionCost>-1200000</constructionCost>
             <soldBuildings>0</soldBuildings>
             <fieldPurchase>0</fieldPurchase>
-            <vehicleRunningCost>-12114.294456412</vehicleRunningCost>
+            <vehicleRunningCost>-12114.294921875</vehicleRunningCost>
             <vehicleLeasingCost>0</vehicleLeasingCost>
             <animalUpkeep>0</animalUpkeep>
-            <propertyMaintenance>-345.53480102161</propertyMaintenance>
+            <propertyMaintenance>-345.53479003906</propertyMaintenance>
             <propertyIncome>11000</propertyIncome>
             <soldWood>0</soldWood>
             <soldBales>0</soldBales>
             <soldWool>0</soldWool>
             <soldMilk>0</soldMilk>
-            <purchaseFuel>-1800.3664611172</purchaseFuel>
+            <purchaseFuel>-1800.3664550781</purchaseFuel>
             <purchaseSeeds>-8029.9252929688</purchaseSeeds>
             <purchaseFertilizer>-1753.2454833984</purchaseFertilizer>
             <purchaseSaplings>0</purchaseSaplings>
@@ -213,7 +213,7 @@
             <harvestIncome>225502.8125</harvestIncome>
             <incomeBga>207076.9375</incomeBga>
             <missionIncome>0</missionIncome>
-            <wagePayment>-6007.2992359565</wagePayment>
+            <wagePayment>-6007.2993164063</wagePayment>
             <other>0</other>
             <loanInterest>0</loanInterest>
         </financeStats>
