@@ -4,7 +4,7 @@
         <mapId>Map01</mapId>
         <mapTitle>Goldcrest Valley</mapTitle>
         <playerName>Weinbauprofi Fürnkranz</playerName>
-        <saveDate>21.09.2019</saveDate>
+        <saveDate>24.09.2019</saveDate>
         <resetVehicles>false</resetVehicles>
         <isPlantWitheringEnabled>true</isPlantWitheringEnabled>
         <trafficEnabled>false</trafficEnabled>
@@ -57,21 +57,21 @@
         <tipTypeMapping fillType="pigFood" index="18"/>
     </tipTypeMappings>
     <statistics>
-        <money>351700</money>
-        <traveledDistance>1029.192993</traveledDistance>
-        <fuelUsage>4371.613770</fuelUsage>
-        <seedUsage>65378.902344</seedUsage>
-        <sprayUsage>12449.327148</sprayUsage>
-        <workedHectares>410.668304</workedHectares>
-        <cultivatedHectares>64.586823</cultivatedHectares>
-        <sownHectares>159.067093</sownHectares>
-        <fertilizedHectares>186.041611</fertilizedHectares>
-        <threshedHectares>187.014359</threshedHectares>
-        <workedTime>2518.843262</workedTime>
-        <cultivatedTime>313.039063</cultivatedTime>
-        <sownTime>639.763000</sownTime>
-        <fertilizedTime>171.500549</fertilizedTime>
-        <threshedTime>1566.041138</threshedTime>
+        <money>547114</money>
+        <traveledDistance>1114.994507</traveledDistance>
+        <fuelUsage>4808.015137</fuelUsage>
+        <seedUsage>74549.890625</seedUsage>
+        <sprayUsage>13345.597656</sprayUsage>
+        <workedHectares>486.900055</workedHectares>
+        <cultivatedHectares>82.545647</cultivatedHectares>
+        <sownHectares>185.760239</sownHectares>
+        <fertilizedHectares>202.973206</fertilizedHectares>
+        <threshedHectares>218.594162</threshedHectares>
+        <workedTime>2816.272217</workedTime>
+        <cultivatedTime>360.403015</cultivatedTime>
+        <sownTime>705.753662</sownTime>
+        <fertilizedTime>181.507599</fertilizedTime>
+        <threshedTime>1750.115356</threshedTime>
         <baleCount>875</baleCount>
         <threePointThrowCount>0</threePointThrowCount>
         <breedCowsCount>0</breedCowsCount>
@@ -80,8 +80,8 @@
         <fieldJobMissionCount>0</fieldJobMissionCount>
         <fieldJobMissionByNPC>0</fieldJobMissionByNPC>
         <revenue>0.000000</revenue>
-        <expenses>163142.859375</expenses>
-        <playTime>4767.754883</playTime>
+        <expenses>185493.718750</expenses>
+        <playTime>5130.695801</playTime>
         <foundGoldNuggetCount>1</foundGoldNuggetCount>
         <foundGoldNuggets>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000</foundGoldNuggets>
         <foundHelpIcons>111100111001</foundHelpIcons>
@@ -93,14 +93,13 @@
         <loanAnnualInterestRate>200</loanAnnualInterestRate>
     </statistics>
     <environment>
-        <dayTime>1378.126831</dayTime>
-        <timeSinceLastRain>332.307312</timeSinceLastRain>
-        <currentDay>21</currentDay>
-        <realHourTimer>1935543</realHourTimer>
+        <dayTime>377.149261</dayTime>
+        <timeSinceLastRain>2211.329590</timeSinceLastRain>
+        <currentDay>23</currentDay>
+        <realHourTimer>1759088</realHourTimer>
         <eastState1>0</eastState1>
         <eastState2>0</eastState2>
-        <rains numRains="11">
-            <rain isValid="true" rainTypeId="fog" duration="135.037323" startDay="23" startDayTime="333.700012"/>
+        <rains numRains="10">
             <rain isValid="true" rainTypeId="cloudy" duration="259.421356" startDay="25" startDayTime="806.478271"/>
             <rain isValid="true" rainTypeId="fog" duration="139.944122" startDay="26" startDayTime="336.791687"/>
             <rain isValid="true" rainTypeId="rain" duration="250.259918" startDay="28" startDayTime="422.867493"/>
@@ -113,8 +112,9 @@
             <rain isValid="true" rainTypeId="hail" duration="227.171722" startDay="42" startDayTime="637.775513"/>
             <rain isValid="true" rainTypeId="hail" duration="227.171722" startDay="42" startDayTime="637.775513"/>
             <rain isValid="true" rainTypeId="hail" duration="227.171722" startDay="42" startDayTime="637.775513"/>
+            <rain isValid="true" rainTypeId="hail" duration="227.171722" startDay="42" startDayTime="637.775513"/>
         </rains>
-        <currentRain isValid="false" rainTypeId="rain" duration="334.646667" startDay="21" startDayTime="731.172852"/>
+        <currentRain isValid="true" rainTypeId="fog" duration="135.037323" startDay="23" startDayTime="333.700012"/>
         <lastRain isValid="true" rainTypeId="rain" duration="334.646667" startDay="21" startDayTime="731.172852"/>
     </environment>
     <pickupObjects>
@@ -133,12 +133,12 @@
         <totalAmount fillType="soybean" value="268934.781250"/>
         <totalAmount fillType="dryGrass" value="50000.000000"/>
         <totalAmount fillType="barley" value="87325.835938"/>
-        <totalAmount fillType="wheat" value="109252.195313"/>
+        <totalAmount fillType="wheat" value="234018.875000"/>
         <totalAmount fillType="seeds" value="50000.000000"/>
         <totalAmount fillType="pigFoodProtein" value="50000.000000"/>
         <totalAmount fillType="dryGrass_windrow" value="50000.000000"/>
         <totalAmount fillType="straw" value="50000.000000"/>
-        <totalAmount fillType="silage" value="1959403.750000"/>
+        <totalAmount fillType="silage" value="2437991.000000"/>
         <totalAmount fillType="sugarCane" value="50000.000000"/>
         <totalAmount fillType="wool" value="50000.000000"/>
         <totalAmount fillType="chaff" value="50000.000000"/>
